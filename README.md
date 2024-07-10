@@ -34,7 +34,7 @@ The course is divided into the following modules:
 ## Repository Structure
 
 The repository is organized as follows:
-
+```bash
 OOP-Java-UCSD-Coursera/
 ├── Module1/
 │   ├── Exercise1/
@@ -58,7 +58,7 @@ OOP-Java-UCSD-Coursera/
 │   ├── README.md
 │   └── ...
 └── README.md
-
+```
 
 
 ## Getting Started
