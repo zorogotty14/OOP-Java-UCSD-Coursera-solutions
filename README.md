@@ -37,27 +37,28 @@ The repository is organized as follows:
 
 OOP-Java-UCSD-Coursera/
 ├── Module1/
-│ ├── Exercise1/
-│ ├── Exercise2/
-│ └── ...
+│   ├── Exercise1/
+│   ├── Exercise2/
+│   └── ...
 ├── Module2/
-│ ├── Exercise1/
-│ ├── Exercise2/
-│ └── ...
+│   ├── Exercise1/
+│   ├── Exercise2/
+│   └── ...
 ├── Module3/
-│ ├── Exercise1/
-│ ├── Exercise2/
-│ └── ...
+│   ├── Exercise1/
+│   ├── Exercise2/
+│   └── ...
 ├── Module4/
-│ ├── Exercise1/
-│ ├── Exercise2/
-│ └── ...
+│   ├── Exercise1/
+│   ├── Exercise2/
+│   └── ...
 ├── FinalProject/
-│ ├── src/
-│ ├── data/
-│ ├── README.md
-│ └── ...
+│   ├── src/
+│   ├── data/
+│   ├── README.md
+│   └── ...
 └── README.md
+
 
 
 ## Getting Started
